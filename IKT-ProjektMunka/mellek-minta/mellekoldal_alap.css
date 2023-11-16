@@ -7,7 +7,7 @@ body {
 }
 
 .navbar-brand {
-    color: #ffffff !important; 
+    color: #ffffff; 
 }
 
 .navbar-nav .nav-link {
@@ -29,4 +29,14 @@ body {
 .img-fluid {
     border-radius: 8px;
     margin-bottom: 20px;
+}
+.domolkikep{
+    display: block;
+    width: 50%;
+    height: 50%;
+}
+#kovacsgyozokep{
+    display: block;
+    width: 50%;
+    height: 50%;
 }
