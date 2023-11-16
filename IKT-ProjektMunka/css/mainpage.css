@@ -1,0 +1,56 @@
+body {
+    background: linear-gradient(
+        to bottom right,
+        rgb(48, 90, 158) 20%,
+        rgb(21, 53, 104) 40% 80%,
+        rgb(13, 31, 65) 80%
+      );
+}
+#banner{
+    background-image: url(../images/wallpaper-mainpage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    height: 400px;
+}
+
+h1{
+    font-size: 500%;
+    font-family: 'Calibri';
+    font-variant: small-caps;
+    text-shadow: 5px 5px black;
+    color: white;
+    text-align: center;
+    text-decoration: double;
+    letter-spacing: 15px;
+}
+h2{
+    font-size: 300%;
+    font-family: 'Cambria';
+    text-transform: uppercase;
+    color: aquamarine;
+    text-shadow: 5px 5px black;
+    text-indent: 10px;
+    text-align: center;
+}
+p,li{
+    color: white;
+    font-size: 125%;
+    text-indent: 25px;
+}
+.card-text{
+    color: darkblue;
+}
+#neumannelv{
+    float: left;
+}
+#logmeinceg{
+    float: right;
+    height: 400px;
+    width: 500px;
+}
+.focim{
+    font-size: 200%;
+    font-weight: bold;
+}
